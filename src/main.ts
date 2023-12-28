@@ -4,3 +4,6 @@ import { AppComponent } from './app/app.component';
 
 bootstrapApplication(AppComponent, appConfig)
   .catch((err) => console.error(err));
+
+
+  // https://wise.com/gb/currency-converter/gbp-to-eur-rate?amount=1000
